@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "This is the first stream",
+      "description": "This is the first stream with user id",
+      "id": 1
+    },
+    {
+      "title": "This is my second id stream",
+      "description": "this is stream is for test",
+      "userId": "115095602893057814887",
+      "id": 3
+    },
+    {
+      "title": "The third id stream",
+      "description": "This stream edited by PATCH Request",
+      "userId": "115095602893057814887",
+      "id": 4
+    },
+    {
+      "title": "Streaming",
+      "description": "Streaming description",
+      "userId": "115095602893057814887",
+      "id": 5
+    }
+  ]
+}
